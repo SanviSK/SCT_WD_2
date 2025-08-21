@@ -15,12 +15,6 @@ This project is part of my Web Development Internship task (`SCT_WD_2`).
 
 ---
 
-## 🖼️ Preview
-👉 [Live Demo (GitHub Pages)](https://sanvisk.github.io/SCT_WD_2/)  
-*(if you haven’t enabled Pages yet, you can set it up in your repo → Settings → Pages → select branch `main`)*
-
----
-
 ## 📂 Project Structure
 SCT_WD_2/
 │── index.html # Main HTML file
@@ -55,8 +49,6 @@ open index.html   # or just double-click index.html
 
 👩‍💻 Author
 
-Sanvi S K
-🔗 GitHub Profile
 
 
 ---
