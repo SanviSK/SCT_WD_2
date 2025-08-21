@@ -32,23 +32,26 @@ SCT_WD_2/
 4. **Reset** → Reset timer and clear all laps  
 
 ---
+## Run Locally
 
-
-## 💻 Run Locally
 Clone this repository and open the project in your browser:
 
-```bash
-# Clone the repository
-git clone https://github.com/SanviSK/SCT_WD_2.git
+1. Clone the repository  
+   📂 [Click here to view the repository](https://github.com/SanviSK/SCT_WD_2)
 
-# Navigate into the folder
+   ```bash
+   git clone https://github.com/SanviSK/SCT_WD_2.git
+2. Navigate into the folder
+
 cd SCT_WD_2
 
-# Open in browser
-open index.html   # or just double-click index.html
 
-👩‍💻 Author
-
+3. Open in browser
+Double-click index.html or open with any browser.
 
 
 ---
+
+
+
+
