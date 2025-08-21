@@ -18,10 +18,10 @@ This project is part of my Web Development Internship task (`SCT_WD_2`).
 ## 📂 Project Structure
 
 **SCT_WD_2/**  
-**│── index.html    # Main HTML structure**  
-**│── style.css     # Styling and layout**  
-**│── script.js     # Stopwatch Logic**  
-**│── README.md     # Documentation**  
+**index.html    # Main HTML structure**  
+**style.css     # Styling and layout**  
+**script.js     # Stopwatch Logic**  
+**README.md     # Documentation**  
 
 ---
 
@@ -52,6 +52,13 @@ Double-click index.html or open with any browser.
 
 ---
 
+## 👩‍💻 Author
+
+**Sanvi S K**  
+
+- 🔗 [GitHub](https://github.com/SanviSK)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 📧 Email: yourname@email.com  
 
 
 
