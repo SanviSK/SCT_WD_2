@@ -43,7 +43,7 @@ Clone this repository and open the project in your browser:
    git clone https://github.com/SanviSK/SCT_WD_2.git
 2. Navigate into the folder
 
-cd SCT_WD_2
+   cd SCT_WD_2
 
 
 3. Open in browser
