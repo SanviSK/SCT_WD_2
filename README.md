@@ -17,12 +17,11 @@ This project is part of my Web Development Internship task (`SCT_WD_2`).
 
 ## 📂 Project Structure
 
-SCT_WD_2/  
-│── index.html    # Main HTML structure  
-│── style.css     # Styling and layout  
-│── script.js     # Stopwatch Logic 
-│── README.md     # Documentation  
-
+**SCT_WD_2/**  
+**│── index.html    # Main HTML structure**  
+**│── style.css     # Styling and layout**  
+**│── script.js     # Stopwatch Logic**  
+**│── README.md     # Documentation**  
 
 ---
 
