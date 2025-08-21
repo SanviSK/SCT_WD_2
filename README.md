@@ -39,6 +39,7 @@ SCT_WD_2/
 
 ---
 
+
 ## 💻 Run Locally
 Clone this repository and open the project in your browser:
 
